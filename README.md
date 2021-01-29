@@ -1,6 +1,6 @@
-# file_picker_app
+# InrredApp
 
-A new Flutter project.
+Un nuevo proyecto inrred.
 
 ## Getting Started
 
