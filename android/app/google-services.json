@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "330797221249",
+    "project_id": "innova-data",
+    "storage_bucket": "innova-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330797221249:android:2301ad3a089eaf44f61480",
+        "android_client_info": {
+          "package_name": "com.inred.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330797221249-tv317b85j0n86ui1brfoc9v8er73v08p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inred.app",
+            "certificate_hash": "beee134c2c33c43dcbbc2bc34e3440bf74ac5fde"
+          }
+        },
+        {
+          "client_id": "330797221249-3oin17qe64cji5vtfqqa9jn00ev9nvmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxT81DaMZtru-Ui6Nm6qqOc9Bi9MrlFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330797221249-3oin17qe64cji5vtfqqa9jn00ev9nvmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
